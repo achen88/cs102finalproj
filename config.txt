@@ -1,0 +1,14 @@
+earth_roughness 12
+moon_roughness 40
+dcamera .002
+l_ambient .1
+l_diffuse .75
+l_specular .9
+moon_coeff .7
+milkyway_coeff .4
+moon_ro -0.34906585044
+ro 0.20943951026
+light_frames_per_cycle 75.0
+moon_frames_per_cycle 600.0
+moon_rotate_frames_per_cycle 400.0
+earth_rotate_frames_per_cycle 300.0

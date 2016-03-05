@@ -1,0 +1,1 @@
+imagemagick is required for image/video processing
